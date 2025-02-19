@@ -17,7 +17,7 @@
 - 📬 **Email :** [keazun@gmail.com](mailto:keazun@gmail.com)
 - 🌐 **Site Web / Portefeuille :** [PAS DE SITE](https://pasdesite.com)
 - 🐦 **Twitter :** [@aymm-x](https://twitter.com/aymm-x)
-- 📱 **LinkedIn :** [r/Aym](https://www.linkedin.com/in/aymm-x/)
+- 📱 **YouTube :** [r/Aym](https://www.youtube.com/@aymm-x)
 
 ---
 
