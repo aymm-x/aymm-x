@@ -1,4 +1,4 @@
-# Salut, je suis r/Aym 👋
+# Salut, je suis r/Aym ! ![Logo](https://github.com/aymm-x/r-Aym/aym.ico)
 
 🚀 Passionné par l'informatique et le développement, je suis toujours en quête de nouveaux défis à relever.  
 🎓 Actuellement étudiant(e) en Développement, j'aime coder, résoudre des problèmes et créer des applications innovantes.
@@ -24,4 +24,3 @@
 > 💡 *"La technologie est l'avenir de l'humanité, et je suis fier(e) d'en faire partie."*
 
 ---
-
