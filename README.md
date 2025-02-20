@@ -10,7 +10,7 @@
 ## 🌱 En ce moment, je travaille sur...
 
 - Des projets d'**intelligence artificielle** pour résoudre des problèmes complexes.
-- La création d'une **application web full-stack** avec React et Node.js pour similariser Discord.
+- La création d'une **application web full-stack** avec React et Node.js pour similariser des applications comme Discord avec Electron.
 
 ## 🔗 Connecte-toi avec moi
 
