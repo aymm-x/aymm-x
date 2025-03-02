@@ -15,9 +15,9 @@
 ## 🔗 Connecte-toi avec moi
 
 - 📬 **Email :** [keazun@gmail.com](mailto:keazun@gmail.com)
-- 🌐 **Site Web :** [r/Aym-X](https://aymlol.netlify.app/aym.lol/$)
-- 🐦 **Twitter :** [@aymm-x](https://twitter.com/aymm-x)
-- 📱 **YouTube :** [r/Aym](https://www.youtube.com/@aymm-x)
+- 🌐 **Site Web :** [Xayner](https://aymlol.netlify.app/aym.lol/$)
+- 🐦 **Twitter :** [@xayner](https://twitter.com/aymm-x)
+- 📱 **YouTube :** [Xayner](https://www.youtube.com/@aymm-x)
 
 ---
 
